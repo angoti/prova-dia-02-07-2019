@@ -1,7 +1,7 @@
 package street.fighter.strategy;
 
 public class Fighter {
-	Pulo pular;
+	private Pulo pular;
 	
 	public Fighter(Pulo pular) {
 		super();
